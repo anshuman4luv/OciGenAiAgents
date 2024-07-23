@@ -1,8 +1,8 @@
 **Exposing Gen Ai Agents via Oracle Digital Assistant**
 
-**Retrieve the Agent Endpoint ID  
-  
-**1. Open your Gen ai Agent dashboard and go to the Agents tab as shown
+**Retrieve the Agent Endpoint ID**
+
+1. Open your Gen ai Agent dashboard and go to the Agents tab as shown
 below  
   
 <img src="./media/image1.png" style="width:6.5in;height:3.05347in" />
