@@ -1,6 +1,6 @@
 # Exposing Gen AI Agents via Oracle Digital Assistant
 
-**Retrieve the Agent Endpoint ID**
+## Retrieve the Agent Endpoint ID
 
 1. Open your Gen ai Agent dashboard and go to the Agents tab as shown
 below  
@@ -25,7 +25,8 @@ as shown below
 5\. The OCID value shown here will be your **agentEndpointId** which we
 will be using going forward
 
-**Configuring a Digital Assistant**
+
+## Configuring a Digital Assistant
 
 1\. Open Oracle Digital assistant instance
 
